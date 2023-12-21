@@ -9,7 +9,7 @@ Programmation orientée objet
 ## Description
 
 Ce dépôt contient des scripts php qui peuvent servir dans un mini projet from scratch.
-Elle est utilisée à titre d'exemple pour mes compétences.
+Il est utilisé à titre d'exemple pour mes compétences.
 
 ## Authors
 
